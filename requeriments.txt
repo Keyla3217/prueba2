@@ -1,9 +1,7 @@
-import streamlit as st
-import yfinance as yf
-import pandas as pd
-import plotly as plt
-import plotly.graph_objects as go
-import exchange_calendars as xcals
-from datetime import date
-import geopandas as gpd
-import matplotlib.pyplot as plt
+streamlit
+yfinance
+pandas
+plotly
+exchange_calendars
+geopandas
+
