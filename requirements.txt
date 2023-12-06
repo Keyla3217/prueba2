@@ -4,3 +4,4 @@ xlrd
 exchange_calendars
 openpyxl
 yfinance
+geopandas
