@@ -1,7 +1,5 @@
 streamlit
 yfinance
-pandas
 plotly
 exchange_calendars
 geopandas
-
